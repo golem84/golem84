@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Andrey
+#### I am junior developer in C#
+I'm looking for a job as a C# developer.
+I like to automate routine work and look for ways to quickly and efficiently solve things.
 
-<!--
-**golem84/golem84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: С# / .NET / EF Core
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on App for recording mileage, maintenance and repair of a personal car: [CarOwner](https://github.com/golem84/CarOwner)
+- 🌱 I’m currently learning EF Core, DTO pattern, SqLite DB 
+- 🤔 I’m looking for help with REST API, ASP.NET MVC 
+- 📫 How to reach me: https://t.me/golem84 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/golem84)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/golem84)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=golem84)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=golem84&show_icons=true)
