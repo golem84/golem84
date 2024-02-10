@@ -5,10 +5,10 @@ I like to automate routine work and look for ways to quickly and efficiently sol
 
 Skills: С# / .NET / EF Core
 
-- 🔭 I’m currently working on App for recording mileage, maintenance and repair of a personal car: [CarOwner](https://github.com/golem84/CarOwner)
-- 🌱 I’m currently learning EF Core, DTO pattern, SqLite DB 
-- 🤔 I’m looking for help with REST API, ASP.NET MVC 
-- 📫 How to reach me: https://t.me/golem84 
+- 🔭 I’m currently working on pet project for recording mileage, maintenance and repair of a personal car: [CarOwner](https://github.com/golem84/CarOwner)
+- 🌱 I’m currently learning EF Core, DTO using cases, SqLite DB for pet projects
+- 🤔 I’m looking for help with REST API, ASP.NET, ASP.NET MVC
+- 📫 How to reach me: https://t.me/golem84
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/golem84)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/golem84)  
